@@ -4,7 +4,7 @@
 
 #### This application is for  Recipe using table view.This Application is for display the menu of item and recipe for this food items.
 
-##### In this application first screen display 16 blank squares.First turn is for the x player and second player is for player 0.First time user click on any square box is display the x on square. then the second player turn for 0 for any square. If Square is not empty then its not change the value on square and its not chane the turn of player.if player 0 or x is win then give alert for winners.If no one is win means the match is draw then its give the gives alert for the draw . and dismmis the wining alert or draw alert then game is start again.
+##### In this application first screen display simple welcome page. and second page is use for the login in the app.then third page is for the menu of food items and then fouth page is for the recipe details which is selected from third page.
 
 # List Of UiElements Which Is Use In This Application:
 * UILabel
